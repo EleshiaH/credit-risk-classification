@@ -5,10 +5,12 @@ The purpose of this analysis was to see how creditworthy are the borrowers of th
 We retrained the data to make the dataset more balanced and improve the performance of the model.
 
 The results are as follows:
+
 **Healthy Loan**
 - Accuracy = 100%
 - Precision = 100%
 - Recall = 99%
+
 **High-Risk Loan**
 - Accuracy = 100%
 - Precision = 87%
